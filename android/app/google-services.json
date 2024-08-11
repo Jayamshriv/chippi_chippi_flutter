@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "401252626673",
+    "project_id": "chippichippif-dce30",
+    "storage_bucket": "chippichippif-dce30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401252626673:android:fe6d3a1005fe32d3b8b950",
+        "android_client_info": {
+          "package_name": "com.exampl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401252626673-f1pqtajokdheum9ji2i9qrht8c2sitr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6A16xVIQvW_zkEKEAnyZceYhmTfgW4b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401252626673-f1pqtajokdheum9ji2i9qrht8c2sitr3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "401252626673-1c54fiqb5fd3m4fu15q1a861rl3405jc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chippiChippif"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401252626673:android:f3978f990939744ab8b950",
+        "android_client_info": {
+          "package_name": "com.example.chippi_chippi_f"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401252626673-dkl3nh0kbu7pa5garfmta83jj7voi5bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chippi_chippi_f",
+            "certificate_hash": "4f7486c9b1b6d410700cb66b158e4b89e2925777"
+          }
+        },
+        {
+          "client_id": "401252626673-f1pqtajokdheum9ji2i9qrht8c2sitr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6A16xVIQvW_zkEKEAnyZceYhmTfgW4b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401252626673-f1pqtajokdheum9ji2i9qrht8c2sitr3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "401252626673-1c54fiqb5fd3m4fu15q1a861rl3405jc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chippiChippif"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
